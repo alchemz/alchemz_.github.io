@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Ling can blog</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+
+
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/normalize.css">
+  <link rel="stylesheet" href="assets/font/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/libs/materialize/css/materialize.min.css" media="screen,projection" />
+  <link rel="stylesheet" href="assets/css/bootstrap.css" media="screen,projection" />
+  <link rel="stylesheet" href="assets/libs/owl-carousel/owl.carousel.css" media="screen,projection" />
+  <link rel="stylesheet" href="assets/libs/owl-carousel/owl.transitions.css" media="screen,projection" />
+  <link rel="stylesheet" href="assets/libs/owl-carousel/owl.theme.css" media="screen,projection" />
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <link rel="stylesheet" href="assets/css/blog.css">
+
+  <link rel="stylesheet" href="assets/css/colors/color1.css">
+ 
+</head>
+
+<body>
+
+  <!-- Preloader --> 
+    <div id="preloader">
+      <div class="loader">
+            <svg class="circle-loader" height="50" width="50">
+              <circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="6" stroke-miterlimit="10" />
+            </svg>
+        </div>    
+    </div><!--preloader end-->
+  <div id="app">
+
+    <header id="navigation" class="root-sec white nav">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="nav-inner">
+              <nav class="primary-nav">
+                <div class="clearfix nav-wrapper">
+                 
+                  <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                  <ul class="right static-menu">
+                    <li class="search-form-li">
+                      <a id="initSearchIcon" class=""><i class="mdi-action-search"></i> </a>
+                      <div class="search-form-wrap hide">
+                        <form action="#" class="">
+                          <input type="search" class="search">
+                          <button type="submit"><i class="mdi-action-search"></i>
+                          </button>
+                        </form>
+                      </div>
+                    </li>
+                    <li>
+                      <a class="dropdown-button blog-submenu-init" href="#!" data-activates="dropdown1">
+                        <i class="mdi-navigation-more-vert right"></i>
+                      </a>
+                    </li>
+                  </ul>
+                  <ul class="inline-menu side-nav" id="mobile-demo">
+
+                  <!-- Mini Profile // only visible in Tab and Mobile -->
+                    <li class="mobile-profile">
+                     <div class="profile-inner">
+                        <div class="pp-container">
+                            <img src="images/person.png" alt="">
+                        </div>
+                        <h3>Xianling Zhang</h3>
+                        <h5>AR/VR Developer</h5>
+                      </div>
+                    </li><!-- mini profile end-->
+
+                    <li><a href="index.html"><i class="fa fa-home fa-fw"></i>Home</a>
+                    </li>
+                    <li><a href="blog-list.html"><i class="fa fa-pencil fa-fw"></i>Blog List</a>
+                    </li>
+                  </ul>
+                 
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header> <!-- header navigation end -->
+
+    <!-- Blog Banner -->
+    <section id="banner" class="root-sec brand-bg padd-tb-73 blogpage-banner-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="clearfix blog-banner-text">
+            <div class="col-sm-8 col-md-8 col-lg-8">
+              <h2 class="title">BLOG</h2>
+              <p class="regular-text">My daily life documentary.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> <!-- Banner end -->
+
+    <!-- Blog Post Container -->
+    <section class="bottom-50 root-sec grey lighten-5 blogpage-posts-wrap">
+      <div class="container">	         	      
+           <div class="clearfix all-blog-post blog-inner with-sidebar">
+            <div class="col-sm-8">
+              <div class="row" id="blog-posts">
+	
+                <article class="col-xs-12 col-sm-12 col-md-6 single-card-box single-post">
+                  <div class="card">
+                    <div class="card-image">
+                      <div class="card-img-wrap">
+                        <div class="blog-post-thumb waves-effect waves-block waves-light">
+                          <a href="single.html"><img class="activator" src="images/fleamarket.png" alt="">
+                          </a>
+                        </div>
+                        <div class="post-body">
+                          <a href="thailand.html" class="post-title-link brand-text"><h2 class="post-title">Traveling In Thailand</h2></a>
+                          <p class="post-content">This is an instruction set for how to spend a week in Thailand. Enjoy it! </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="clearfix card-content">
+                      
+                      <a href="thailand.html" class="brand-text right waves-effect">read more</a>
+                    </div>
+                  </div>
+                </article> <!--./single post-->
+
+                <article class="col-xs-12 col-sm-12 col-md-6 single-card-box single-post">
+                  <div class="card">
+                    <div class="card-image">
+                      <div class="card-img-wrap">
+                        <div class="blog-post-thumb waves-effect waves-block waves-light">
+                          <a href="single.html"><img class="activator" src="images/handGesture.png" alt="">
+                          </a>
+                        </div>
+                        <div class="post-body">
+                          <a href="handGesture.html" class="post-title-link brand-text"><h2 class="post-title">Universal Hand Gestures Solution</h2></a>
+                          <p class="post-content">The purpose of this project is to provide the user with universal hand gesture functions for communication in AR/VR projects, and it is compatible for all the AR/VR equipments .</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="clearfix card-content">
+                      
+                      <a href="thailand.html" class="brand-text right waves-effect">read more</a>
+                    </div>
+                  </div>
+                </article> <!--./single post end-->
+
+                <!--Single Post-->
+                      <article class="col-xs-12 col-sm-12 col-md-6 single-card-box single-post">
+                  <div class="card">
+                    <div class="card-image">
+                      <div class="card-img-wrap">
+                        <div class="blog-post-thumb waves-effect waves-block waves-light">
+                          <a href="single.html"><img class="activator" src="images/faster.PNG" alt="">
+                          </a>
+                        </div>
+                        <div class="post-body">
+                          <a href="fasterWebsite.html" class="post-title-link brand-text"><h2 class="post-title">How To Faster Your Website</h2></a>
+                          <p class="post-content">This is an instruction set for how to do diagnostic and faster your website. Enjoy it! </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="clearfix card-content">
+                      
+                     <a href="fasterWebsite.html" class="brand-text right waves-effect">read more</a>
+                    </div>
+                  </div>
+                </article> <!--./single post end-->
+                
+                  <article class="col-xs-12 col-sm-12 col-md-6 single-card-box single-post">
+                  <div class="card">
+                    <div class="card-image">
+                      <div class="card-img-wrap">
+                        <div class="blog-post-thumb waves-effect waves-block waves-light">
+                          <a href="single.html"><img class="activator" src="images/hololensWithOpenCV.png" alt="">
+                          </a>
+                        </div>
+                        <div class="post-body">
+                          <a href="hololensWithOpenCV.html" class="post-title-link brand-text"><h2 class="post-title">Start To Develop Hololens With OpenCV</h2></a>
+                          <p class="post-content">The purpose of this project is to keep the record of developing holographic apps with openCV .</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="clearfix card-content">                     
+                      <a href="hololensWithOpenCV.html" class="brand-text right waves-effect">read more</a>
+                    </div>
+                  </div>
+                </article> <!--./single post end-->
+                
+              </div>
+            </div>
+
+            <!-- Sidebar -->
+            <div class="col-sm-4">
+              <div class="primary-sidebar">
+		  <aside class="single-widget">
+                  <h2 class="widget-title">TAGS</h2>
+                  <div class="widget-text">
+                    <a href="#Artcrafts" class="tags" title="Artscrafts">Artcrafts</a>
+                    <a href="#AR" class="tags" title="AR">AR</a>
+                    <a href="#VR" class="tags" title="VR">VR</a>
+                    <a href="#Traveling" class="tags" title="Traveling">Traveling</a>
+                    <a href="#Interactive Design" class="tags" title="Interactive Design">Interactive Design</a>      
+		   <a href="#Hololens" class="tags" title="Hololens">Hololens </a>
+                  </div>
+                </aside>
+		      
+                <aside class="single-widget">
+                  <h2 class="widget-title">RECENT POSTS</h2>
+                  <ul>
+                    <li>
+                      <a href="thailand.html">Traveling In Thailand</a>
+                      <span>Nov 24, 2016</span>
+                    </li>
+                     <li>
+                      <a href="handGesture.html">Universal Hand Gestures Solution</a>
+                      <span>Dec 12, 2016</span>
+                    </li>
+                  <li>
+                      <a href="fasterWebsite.html">How To Diagonse And Faster Your Website</a>
+                      <span>Jan 14, 2016</span>
+                    </li>
+                       <li>
+                      <a href="hololensWithOpenCV.html">Start To Develop Hololens With OpenCV</a>
+                      <span>Jan 15, 2016</span>
+                    </li>
+                  </ul>
+                </aside>
+           
+               
+        
+              </div>
+            </div> <!-- ./sidebar end -->
+          </div>
+        </div>
+      </div> <!-- ./container end -->
+    </section> <!-- ./Blog Post container end-->
+
+<!-- Footer start -->
+    <footer id="footer" class="root-sec white root-sec footer-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="clearfix footer-inner">
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer> <!-- Footer end -->
+  </div>
+
+
+<!-- JavaScripts -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="assets/js/isotope.pkgd.min.js"></script>
+  <script src="assets/js/jquery.nicescroll.min.js"></script>
+  <script src="assets/libs/owl-carousel/owl.carousel.min.js"></script>
+  <script src="assets/libs/materialize/js/materialize.min.js"></script>
+  <script src="assets/libs/jwplayer/jwplayer.js"></script>
+  <script src="assets/js/common.js"></script>
+</body>
+
+</html>
