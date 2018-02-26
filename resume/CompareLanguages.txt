@@ -1,0 +1,7 @@
+Two Languages: C++, Python.
+
+I would like to compare the two languages from the the projects I have done in the past.
+
+Currently, I am taking the Udacity Self-Driving Car Engineer Degree, the first term of this nanodegree is taught in Python, and all the coding projects need to be done in Python to be reviewed. The most recent one is about using Transfer Learning in a Behavioral Cloning project, starting with a neural network that  has already been trained, and then applying it to my own problem, it can greatly shorten the training time. In addition, Python, as a very high-level programming language, it takes less time to write, and code is just so elegant and easy read when putting together.
+
+When I was in college, being part of the computer vision team of the Penn State Unmanned Aerial Systems,my work is to develop and test the Computer Vision algorithms for aerial vehicle tasks, and collect test data from the flying unmanned vehicles(Phantom2, 3DR X8, and self-designed unmanned drones). These work are all done in C++ compiled under Linux, it incorporates the application software, device drivers, embeded software, server-to-client in a very efficient way. Although the C++ code might be much longer than Python, but we get more freedom to analyze and upgrade it from a low-level perspective.
