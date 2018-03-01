@@ -20,3 +20,5 @@ C++问题中间问了个python的极度基础
 
 First talking about the resume and answering some questions, like some purposes of projects and the major task you were responsible for. 
 And then do a code question and following up with simpler way with a built-in method.
+
+https://stackshare.io/here/here
