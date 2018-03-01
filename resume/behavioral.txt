@@ -1,0 +1,38 @@
+https://www.youtube.com/watch?v=jfo3EWyhA8U
+Behavior Questions
+1. Tell me about yourself.
+First heard this company from a youtube video
+Compare Google Maps and HERE Maps
+Pro: HERE is probably the only offline navigation app which has a transit directions and walking directions when offline.
+Con: Map file size
+
+My experience with AWS, Python and C++
+Projects with Penn State Unmanned Aerial Systems, Udacity Self-Driving
+
+2. What is your favourite programming language
+C++ is a low level programming language
+Python is a high-level programming language
+Especially, 
+
+3. What can you tell me about your experience
+I did a project
+Parallel Computing
+
+4. Any conflicts/difficulties, how do you solve them
+
+5. What salary are you expecting?
+As a new grad, I want get through all interviews first.
+
+6. Why do you want to work for this company
+Roadtrip using the HERE map
+Trip out new stuff
+Keep innovating
+Autonomous Driving Team
+
+7. Here is what we do, any insight?
+What database management you used? SQL or MySQL
+
+8. Do you have any questions for me?
+Tell me some company culture. What you do for daily life
+If I say I join you guys for three years.
+How can I see myself in three years?
