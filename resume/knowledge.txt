@@ -1,0 +1,33 @@
+data mining:
+why learn: very large databases, huge amount of scientific data have been generated 
+Example topics include: linear classification/regression, logistic regression, model regularization, dimension reduction, prototype methods, decision trees, mixture models, and hidden Markov models.
+
+deep learning:
+Neural Networks Basics, Shalldow Neural Networks(Hidden Layer), Deep Neural Networks.
+
+Computer Vision:
+Collecting test data from the flying unmanned vehicles(Phantom2, 3DR X8, and self-designed. unmanned drones.
+
+Speech Recognition:
+
+Image Processing:
+VRbal: Trained for using the open-source Speech Recognition package, which is the CMU Sphinx4.
+
+Parallel Computing(GPU):
+
+AR/VR:
+
+Robotics Control:
+
+HCI:
+
+Udacity Self-Driving:
+TensorFlow, Computer Vision Fundamentals, Convolutional Neural Networks, and etc, are the most ​fascinating things I have learned 
+in the past months. 
+
+Talking about experience in the automated driving field, I have been part of the Penn State Unmanned Aerial Systems, which is 
+interdisciplinary student-focused group that aims to build, study, and design the next generation of unmanned aerial systems.
+
+My responsibilities in the team are: 
+working with scanning laser rangefinder to detect and locate obstacles as well as other drones;  
+designing and training computer vision algorithms to accomplish efficient moving object detection. 
