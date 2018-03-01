@@ -1,0 +1,22 @@
+Java基础问题
+StringBuilder VS StringBuffer, Encaptulation,polymorphism
+Glassdoor
+Java is by value or by reference
+Personal Projects
+AWS, Google Cloud
+Network, Management
+Linux, how to open file, how to find file in the log
+HashTable vs HashMap
+SQL
+Difference between OOP language and Interpreted Language
+Stack and Heap Memory
+
+CNN
+流行的NN
+Computer Vision
+C++概念题，virtual function, lambda, smart pointer, inheritance
+C++问题中间问了个python的极度基础
+
+
+First talking about the resume and answering some questions, like some purposes of projects and the major task you were responsible for. 
+And then do a code question and following up with simpler way with a built-in method.
