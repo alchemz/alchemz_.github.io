@@ -7,7 +7,7 @@ Pro: HERE is probably the only offline navigation app which has a transit direct
 Con: Map file size
 
 My experience with AWS, Python and C++
-Projects with Penn State Unmanned Aerial Systems, Udacity Self-Driving
+Projects with Penn State Unmanned Aerial Systems, Udacity Self-Driving could be useful for your company
 
 2. What is your favourite programming language
 C++ is a low level programming language
