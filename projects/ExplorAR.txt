@@ -1,0 +1,9 @@
+ExplorAR: Interactive Mixed Reality Game for Location Based Modules
+- Accepted in ACM CHI 2018
+- ARCore SDK, Rest API
+- Embed real-time GPS with unity generated mini map in game
+- Guide the user to destinations in different locations
+Users will engage the artifacts with include fossils, paintings, status,
+and other historical objects. 
+Users will learn how to preserve historical objects by extracting fragments of artifacts,
+how to collaborate with others by combining fragments of missing artifacts.
