@@ -1,0 +1,35 @@
+Udacity Projects:
+1. Finding Lane Lines
+https://medium.com/@ablacklama/identifying-lane-lines-with-gradients-750e46224115
+My goal in this project was to successfully identify and label the lanes the car was driving on. 
+Each frame of the video needed to be analyzed and returned with red lines over the lanes the vehicle 
+was in.
+
+This project was a bit challenging for me simply because I had to learn about Hough space and Canny edge
+detection. But I loved the challenge and experimenting with ways to improve it. Most of mine failed, 
+or would fail outside of these test examples, but it was still fun to try them out.
+
+2. Traffic Sign Classifier
+
+3. Behavioral Cloning
+
+5. Vehicel Detection Using YOLO
+https://medium.com/@ablacklama/vehicle-detection-using-yolo-612a3b9b54a9
+The goal of the project is to detect and draw squares around cars in dashcam footage. I used a YOLO image 
+detection network to predict the boxes and labels that I put on the image. I choose to use a one-shot 
+approach to this instead of the Udacity recommended approach for a few reasons:
+
+I’ve heard models like this are more commonly used in the industry than the HOG/SVM style approach Udacity 
+teaches
+
+“YOLO” or “You Only Look Once” (hah ಠ_ಠ), is a massive Convolutional Neural network for object detection 
+and classification. As a quote from its website explains “This network divides the image into regions and 
+predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the 
+predicted probabilities.”
+
+AWS: 
+Waiting for the computer to complete training AlexNet on 10 epochs, I am thinking about(MUST DO) upgrading 
+the GPU..... 
+Training Neural Networks could take very long time. So when I am using the GPU-enabled server(instance) 
+through
+Amazon Web Services, EC2(Elastic Compute Cloud)
