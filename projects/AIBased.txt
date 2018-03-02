@@ -1,0 +1,5 @@
+Data Visualization Project
+- allow user to interact and visualize the data models in a multidimensional immersive way
+- C#, Python
+- Python: Server End to handle all the data analysis
+- C#: Client end to collect user commands and send it to Server with Flask Framework.
