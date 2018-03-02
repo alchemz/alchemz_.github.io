@@ -1,0 +1,10 @@
+- test and develop computer vision algorithms for autonomouos aerial vehicles, mostly in C++
+- Use many SoC, stands for system on chip for embedded systems work. We used Odroid XU3, XU4, Xilinx FPGA board
+
+When I was in college, being part of the computer vision team of the Penn State Unmanned 
+Aerial Systems,my work is to develop and test the Computer Vision algorithms for aerial 
+vehicle tasks, and collect test data from the flying unmanned vehicles(Phantom2, 3DR X8, 
+and self-designed unmanned drones). These work are all done in C++ compiled under Linux, 
+it incorporates the application software, device drivers, embeded software, server-to-client 
+in a very efficient way. Although the C++ code might be much longer than Python, but we get 
+more freedom to analyze and upgrade it from a low-level perspective.
