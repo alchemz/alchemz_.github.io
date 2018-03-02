@@ -1,0 +1,28 @@
+ZOOX_BQ.txt
+check list:
+1. Tell me about yourself.
+Buzzword
+
+2. What is your fav programming language.
+Similar Python, C++, Technology, Service, Math, Statistics used
+
+3. What can you tell me about your experience?
+
+4. Any conflicts/Difficulties, how do you solve them?
+
+5. What salary are you expecting.
+New Grad
+
+6. Why do you want to work for this company.
+Innovating, Scale up, Skills relevancy, why passionate with automated driving
+
+7. Here is what we do, any insight?
+Any plans, workflow 
+
+8. Do you have any questions for me?
+tell me something about culture fit, what to do on Fridays/daily life
+How can I see myself in two years?
+
+StackShare
+
+Job Search

@@ -1,0 +1,8 @@
+Fully autonomouse vehicle
+Jesse Levinson
+-object tracking, motion blurness, real-time tracking
+- use 6-DOF calibration 3D sensors to 2D cameras to track the hand gestures, and user movements
+
+Bottlenecks:
+- generating supervised data, feeding with enough data to sufficiently react to the multiple scenarios.
+- training/testing the model
